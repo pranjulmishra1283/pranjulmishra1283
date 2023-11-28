@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pranjulmishra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjul-mishra-005856184/)](https://www.linkedin.com/in/pranjul-mishra-005856184/)
 [![Gmail Badge](https://img.shields.io/badge/-pranjulmishra1283@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjulmishra1283mishra1283@gmail.com)](mailto:pranjulmishra1283@gmail.com)
 
-I am Pranjul Mishra 😃. I am from Kanpur, UP and currently doing my B.Tech from MNIIT Allahabad 🏫.I love to explore and learn about new things.
+I am Pranjul Mishra 😃. I am from Kanpur, UP and currently doing my B.Tech from MNNIT Allahabad 🏫.I love to explore and learn about new things.
 
 ## 👯 Communities
 * Microsoft Student Partner
