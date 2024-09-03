@@ -1,3 +1,5 @@
+![logo](https://github.com/user-attachments/assets/c4ba6fe0-089c-443f-81dd-c6239315380f)
+
 <h1 align="center">Hi 👋, I'm Pranjul Mishra</h1>
 <h3 align="center">Surviving in a world of bugs and commits.</h3>
 
