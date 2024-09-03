@@ -2,6 +2,7 @@
 <h3 align="center">Surviving in a world of bugs and commits.</h3>
 
 
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjulmishra1283&label=Profile%20views&color=0e75b6&style=flat" alt="pranjulmishra1283" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://pranjul-mishra-portfolio.netlify.app/](https://pranjul-mishra-portfolio.netlify.app/)
