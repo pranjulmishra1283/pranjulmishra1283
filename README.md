@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pranjul Mishra</h1>
 <h3 align="center">Surviving in a world of bugs and commits.</h3>
-![GIF](https://media.giphy.com/media/25JGQ0SPpafi8/giphy.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjulmishra1283&label=Profile%20views&color=0e75b6&style=flat" alt="pranjulmishra1283" /> </p>
 
