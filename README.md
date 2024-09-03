@@ -2,14 +2,15 @@
 <h3 align="center">Surviving in a world of bugs and commits.</h3>
 
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" style="margin-right: -50px; padding-left: 50px;">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjulmishra1283&label=Profile%20views&color=0e75b6&style=flat" alt="pranjulmishra1283" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://pranjul-mishra-portfolio.netlify.app/](https://pranjul-mishra-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://pranjul-mishra-portfolio.netlify.app/)
 
 - 📫 How to reach me **pranjulmishra1283@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LN8geat98sfx7TDzdDFEMYPy7__ZzhG2/view?usp=sharing](https://drive.google.com/file/d/1LN8geat98sfx7TDzdDFEMYPy7__ZzhG2/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1LN8geat98sfx7TDzdDFEMYPy7__ZzhG2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
